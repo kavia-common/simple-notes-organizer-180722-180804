@@ -1,0 +1,1 @@
+/* Ambient references for browser globals are provided by lib DOM. This file intentionally left minimal to avoid linter unused vars. */
